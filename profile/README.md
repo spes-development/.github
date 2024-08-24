@@ -1,5 +1,5 @@
 ## How to use?
-<b>Clone Sources</b>
+<b>Clone Sources (Android 14):</b>
 - Device Source:
 ```
 git clone -b 14.0 https://github.com/spes-development/device_xiaomi_spes device/xiaomi/spes
