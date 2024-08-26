@@ -21,3 +21,7 @@ git clone -b 14.0 https://github.com/spes-development/vendor_xiaomi_spes vendor/
 - [Kernel Repo](https://github.com/spes-development/kernel_xiaomi_sm6225)
 
 - [Vendor Repo](https://github.com/spes-development/vendor_xiaomi_spes)
+
+<b>Important Links:</b>
+- [Update Channel](https://t.me/TanvirBuilds)
+- [Diacussion Group](https://t.me/TanvirBuildsSupport)
