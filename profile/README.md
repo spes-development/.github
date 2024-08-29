@@ -12,6 +12,11 @@ git clone -b NaughtySilver --depth=1 https://github.com/spes-development/kernel_
 ```
 git clone -b 14.0 https://github.com/spes-development/vendor_xiaomi_spes vendor/xiaomi/spes
 ```
+- Hardware Source:
+```
+git clone -b lineage-21 https://github.com/LineageOS/android_hardware_xiaomi hardware/xiaomi
+```
+
 - Device Tree Adaption:
 [Bring Up](https://github.com/spes-development/device_xiaomi_spes/commit/ddbf1e1c490bf1ca4a46f88f9a30b8fafba8c3f5)
 
